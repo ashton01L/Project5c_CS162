@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a02c8aae-5e86-40be-b2d5-f0ba07c29f4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Project5c_CS162.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SatData.py" afterDir="false" />
+    <list default="true" id="a02c8aae-5e86-40be-b2d5-f0ba07c29f4b" name="Changes" comment="final version, fixed errors">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,11 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,6 +60,82 @@
       <option name="presentableId" value="Default" />
       <updated>1730266283917</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixed errors">
+      <option name="closed" value="true" />
+      <created>1730266706937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730266706937</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added description">
+      <option name="closed" value="true" />
+      <created>1730267026664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730267026664</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added description in README file">
+      <option name="closed" value="true" />
+      <created>1730267060846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730267060846</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added description in README file, again">
+      <option name="closed" value="true" />
+      <created>1730267098398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730267098398</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final version, i hope">
+      <option name="closed" value="true" />
+      <created>1730344465528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730344465528</updated>
+    </task>
+    <task id="LOCAL-00006" summary="final version">
+      <option name="closed" value="true" />
+      <created>1730344714955</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730344714955</updated>
+    </task>
+    <task id="LOCAL-00007" summary="final version, fixed spelling errors in docstring">
+      <option name="closed" value="true" />
+      <created>1730345166388</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730345166388</updated>
+    </task>
+    <task id="LOCAL-00008" summary="final version, fixed errors">
+      <option name="closed" value="true" />
+      <created>1730347749006</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730347749006</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed errors" />
+    <MESSAGE value="added description" />
+    <MESSAGE value="added description in README file" />
+    <MESSAGE value="added description in README file, again" />
+    <MESSAGE value="final version, i hope" />
+    <MESSAGE value="final version" />
+    <MESSAGE value="final version, fixed spelling errors in docstring" />
+    <MESSAGE value="final version, fixed errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version, fixed errors" />
   </component>
 </project>
