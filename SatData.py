@@ -59,6 +59,6 @@ class SatData:
             writer.writerows(filtered_data)
 
 # Sample usage
-sat_data = SatData("sat.json")
-dbns = ["02M303", "02M294", "01M450", "02M418"]
-sat_data.save_as_csv(dbns)
+# sat_data = SatData("sat.json")
+# dbns = ["02M303", "02M294", "01M450", "02M418"]
+# sat_data.save_as_csv(dbns)
