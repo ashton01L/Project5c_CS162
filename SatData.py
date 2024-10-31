@@ -16,6 +16,8 @@ class SatData:
 
         :param filepath:
         """
+        filepath = "~/sat.json"
+
         with open("sat.json", 'r') as file:
             data = json.load(file)
 
@@ -33,7 +35,7 @@ class SatData:
 
     def save_as_csv(self, dbns):
         """
-        Saves return as a comma separated values (.csv) file
+        Saves return (writes) as a comma separated values (.csv) file
 
         :param: dbns for csv data
         :return: csv file
@@ -58,7 +60,6 @@ class SatData:
             writer.writeheader()
             writer.writerows(filtered_data)
 
-# Sample usage
 sat_data = SatData("sat.json")
 dbns = ["02M303", "02M294", "01M450", "02M418"]
 sat_data.save_as_csv(dbns)
