@@ -8,14 +8,11 @@ import json
 
 class SatData:
     """
-
-
-
+    A class to represent SatData
     """
     def __init__(self, filepath):
         """
-
-
+        Initializes SatData object with filepath
 
         :param filepath:
         """
@@ -36,11 +33,10 @@ class SatData:
 
     def save_as_csv(self, dbns):
         """
+        Saves return as a comma separated valuse (.csv) file
 
-
-
-        :param dbns:
-        :return:
+        :param: dbns for csv data
+        :return: csv file
         """
         import csv
 
